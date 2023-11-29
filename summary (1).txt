@@ -1,0 +1,19 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members: Kwabena Appiah (koa24)
+
+Time spent on the assignment, in hours: 5-6 hours
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.) I started implementing the helper methods and the data structures first. Then I moved on the heavy hitters like the algos and later optimized everything after I got things to work consistently.
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+ For data structures I created graphs that covered most cases. For the actual game, I rand through multiple seeds in headless mode to test my optimizations.
+
+Known problems:
+    (are there any things that do not work?)
+Nothing that I know of.
+
+Comments on the assignment:
+This was a difficult assignment, But I did enjoy the game aspect of it.
